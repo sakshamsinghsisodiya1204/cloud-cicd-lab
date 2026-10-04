@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 def home():
 
-    return "Welcome to Cloud Computing Lab - CI/CD Version 1"
+    return "Welcome to Cloud Computing Lab - CI/CD Version 2"
 
 @app.route("/student")
 
